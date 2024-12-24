@@ -8,10 +8,8 @@
 
                 <head>
                     <meta charset="utf-8">
-                    <title> Giỏ hàng - Laptopshop</title>
+                    <title>Giỏ hàng</title>
                     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-                    <meta content="" name="keywords">
-                    <meta content="" name="description">
 
                     <!-- Google Web Fonts -->
                     <link rel="preconnect" href="https://fonts.googleapis.com">
